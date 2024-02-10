@@ -1,5 +1,10 @@
 # Lab 8: Monitoring with Prometheus
 
+
+## Overview
+
+In this lab, you will become acquainted with Prometheus, set it up, and configure applications to collect metrics.
+
 ## Task 1: Prometheus Setup
 
 **6 Points:**

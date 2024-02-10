@@ -1,5 +1,10 @@
 # Ansible 2
 
+
+## Overview
+
+In this lab, you will utilize Ansible to set up a Continuous Deployment (CD) process for your application.
+
 ## Task 1: Application Deployment
 
 **6 Points:**
